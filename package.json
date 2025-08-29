@@ -17,5 +17,6 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/votre-nom/recueil-de-retours-utilisateurs.git"
-  }
+  },
+  "keywords": ["utilisateurs", "retours", "analyse", "produits", "services"]
 }
