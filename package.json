@@ -13,5 +13,9 @@
     "cors": "^2.8.5"
   },
   "license": "MIT",
-  "author": "Votre Nom"
+  "author": "Votre Nom",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/votre-nom/recueil-de-retours-utilisateurs.git"
+  }
 }
