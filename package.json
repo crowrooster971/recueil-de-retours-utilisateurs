@@ -13,7 +13,7 @@
     "cors": "^2.8.5"
   },
   "license": "MIT",
-  "author": "John Doe",  // Updated author name
+  "author": "John Doe",
   "repository": {
     "type": "git",
     "url": "https://github.com/votre-nom/recueil-de-retours-utilisateurs.git"
