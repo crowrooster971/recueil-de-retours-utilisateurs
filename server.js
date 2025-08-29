@@ -13,7 +13,7 @@ app.use(bodyParser.json()); // Parse application/json
 // Connect to MongoDB
 mongoose.connect('mongodb://localhost:27017/recueilRetours', { useNewUrlParser: true, useUnifiedTopology: true })
   .then(() => console.log('MongoDB connecté'))
-  .catch(err => console.error('Erreur de connexion MongoDB:', err));
+  .catch(err => console.error('Erreur de connexion MongoDB:', err)); // Log connection error
 
 // Routes
 app.get('/', (req, res) => {
